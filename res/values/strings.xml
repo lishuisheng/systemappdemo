@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LssDemo</string>
+    <string name="btn">获取用户名</string>
+    <string name="btn2">创建用户</string>
+    <string name="btn3">删除用户</string>
+    <string name="btn4">切换用户</string>
+    <string name="btn5">获取当前用户数量</string>
+</resources>
+
